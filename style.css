@@ -1,0 +1,15 @@
+#wrapper{
+    padding: 15px;
+}
+.light{
+    background-color: #ccc;
+    color: #000;
+}
+.dark{
+    background-color: #000;
+    color: gold;
+}
+.blue{
+    background-color: skyblue;
+    color: #fff;
+}
